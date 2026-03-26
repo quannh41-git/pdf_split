@@ -1,0 +1,17 @@
+# Format: output_filename, start_page, end_page (0-based page index)
+05.pdf, 57, 75
+06.pdf, 75, 92
+07.pdf, 93, 121
+08.pdf, 121, 147
+09.pdf, 147, 169
+10.pdf, 171, 186
+11.pdf, 187, 203
+12.pdf, 203, 217
+13.pdf, 219, 234
+14.pdf, 235, 249
+15.pdf, 249, 265
+16.pdf, 267, 282
+17.pdf, 283, 296
+18.pdf, 297, 308
+19.pdf, 311, 320
+20.pdf, 321, 328
